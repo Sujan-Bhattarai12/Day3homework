@@ -1,0 +1,19 @@
+---
+title: "eds212_day3_task2"
+format: html
+editor: visual
+---
+
+## Assignment
+
+```{r}
+vectora <- c(1, 6)
+vectorb <- c(2, 4)
+
+vectora + vectorb
+vectorb - vectora
+
+4*vectora
+
+sum(vectora + vectorb)
+```
